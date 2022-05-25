@@ -1,7 +1,6 @@
 # The-Infinis-Mall.github.io
 Our first web development project at RMIT University with 4 members.
 This is our official website for Assignment 1: The Infinis Mall. This website is currently compatible with 3 different devices: Laptop/PC, ipad Pro and iphone X.
-Link: https://phuctr2203.github.io/shopping-mall/
 
 IMPORTANT NOTES FOR LECTURER/GRADER (This is to make sure that you can test out all features correctly):
 + Our document root is the Web-Programming-ASM3 folder, so when you test our website for grading purposes, make sure to change directory on your terminal to the Web-Programming-ASM3 folder before starting a localhost server; Then, you just need to type in your localhost address to access the Mall Home Page (for example: localhost:8000)
